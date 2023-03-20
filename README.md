@@ -45,6 +45,23 @@ $ npm run start:dev
 $ npm run start:prod
 ```
 
+## example.env
+
+```
+PORT = <Number>
+
+DB_HOST = <String
+
+DB_PORT = <Number>
+
+DB_USERNAME = <String>
+
+DB_PASSWORD = <String>
+
+DB_NAME = <String>
+
+```
+
 ## Test
 
 ```bash
@@ -57,6 +74,8 @@ $ npm run test:e2e
 # test coverage
 $ npm run test:cov
 ```
+
+
 
 ## Support
 
