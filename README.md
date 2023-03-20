@@ -57,6 +57,23 @@ $ npm run test:e2e
 # test coverage
 $ npm run test:cov
 ```
+## example.env
+
+```
+PORT = <Number>
+
+DB_HOST = <String
+
+DB_PORT = <Number>
+
+DB_USERNAME = <String>
+
+DB_PASSWORD = <String>
+
+DB_NAME = <String>
+
+```
+
 
 ## Support
 
