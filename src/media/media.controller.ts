@@ -53,7 +53,7 @@ export class MediaController {
   }
 
   // Search 
-  @Get(':any')
+  @Get('search/:any')
   searchMedia(@Param('any') description: string){
     return this.mediaService.findOne(+description)
   }
